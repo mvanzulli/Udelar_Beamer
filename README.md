@@ -52,4 +52,4 @@ Comisión Académica de Posgrado UdelaR
 
 ## Copyright and license
 
-Code and documentation copyright 2022 the authors. Code released under the [MIT License](https://reponame/blob/master/LICENSE).
+Code and documentation copyright 2022 the authors. Code released under the [GPL-2](https://github.com/mvanzulli/UdelarBeamer/blob/main/LICENSE).
