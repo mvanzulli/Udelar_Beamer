@@ -2,22 +2,7 @@
 UdelarBeamer es un modelo prediseñado (clase o plantilla) en LaTeX  para presentaciones en programas de la UdelaR.
 
 
-<p align="center">
-  <a href="https://example.com/">
-    <img src="https://via.placeholder.com/72" alt="Logo" width=72 height=72>
-  </a>
-
-  <h3 align="center">Logo</h3>
-
-  <p align="center">
-    Short description
-    <br>
-    <a href="https://reponame/issues/new?template=bug.md">Report bug</a>
-    ·
-    <a href="https://reponame/issues/new?template=feature.md&labels=feature">Request feature</a>
-  </p>
-</p>
-
+![Logo](https://user-images.githubusercontent.com/50339940/191035914-3a274756-66db-49f7-bc30-9ff47f0fd7ef.png)
 
 ## Table of contents
 
