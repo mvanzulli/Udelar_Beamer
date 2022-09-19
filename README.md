@@ -24,7 +24,6 @@ UdelarBeamer es un modelo prediseñado (clase o plantilla) en LaTeX  para presen
 - [Quick start](#quick-start)
 - [What's included](#whats-included)
 - [Bugs and feature requests](#bugs-and-feature-requests)
-- [Contributing](#contributing)
 - [Creators](#creators)
 - [Thanks](#thanks)
 - [Copyright and license](#copyright-and-license)
