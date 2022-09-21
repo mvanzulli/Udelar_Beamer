@@ -9,6 +9,7 @@
 \usepackage{booktabs}
 \usepackage{amsmath}
 \usepackage{mathtools}
+\usepackage{multimedia}
 \usepackage{subfigure}
 \usepackage{hyperref}
 \usepackage{xcolor}
@@ -320,6 +321,19 @@
 			\end{onlyenv}
 		\end{column}
 	\end{columns}
+\end{frame}
+
+
+
+
+\begin{frame}{Ejemplo animación}
+	\begin{figure}[h!]
+		\centering    
+		\movie[label=show1,width=1.0\textwidth
+		,autostart,showcontrols=true,loop] 
+		{\centering\def\svgwidth{60mm}			\input{./imagenes/ResultadosNumericos/RightAngeCantilever/Deformadas.pdf_tex}}{./videos/2.mp4}
+		\caption{Animación con portada.}
+	\end{figure} 
 \end{frame}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%     SECTION  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section[Conclusiones]{Conclusiones}
