@@ -21,8 +21,6 @@ UdelarBeamer es un modelo prediseñado (clase o plantilla) en LaTeX  para presen
 
 ## What's included
 
-Some text
-
 ```text
 mubeamer/
 └── logo/"Logo UdelaR"
@@ -32,6 +30,7 @@ imagenes/
 └── Preliminares
 └── Metodología
 └── ResultadosNumericos
+└── definitios.tex (Mathematical abreviations) 
 LICENSE
 beamerthemeMU/"beamer style file"
 ```
