@@ -37,7 +37,7 @@ beamerthemeMU/"beamer style file"
 
 ## Bugs and feature requests
 
-Si tiene algún problema no dude en [abrir un issue](https://UdelarBeamer/issues/new).
+If u have a problem don't hesitate to [open an issue](https://UdelarBeamer/issues/new).
 
 ## Creators
 
